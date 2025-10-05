@@ -1,0 +1,1 @@
+npx --version; fastmcp dev app.py
